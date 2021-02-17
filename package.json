@@ -1,0 +1,20 @@
+{
+  "name": "react_node_experience",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BRMonte/react_node_experience.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BRMonte/react_node_experience/issues"
+  },
+  "homepage": "https://github.com/BRMonte/react_node_experience#readme"
+}
